@@ -22731,6 +22731,10 @@ ss.cnnic.cn
 #ok365.com
 mm.dopa.com.cn
 pd.dopa.com.cn
+securepubads.g.doubleclick.net
+pq.tanguinantaiva.com
+tanguinantaiva.com
+doubleclick.net
 cloudcdn.yousee.com
 pd.ok365.com
 www.ok365.com
